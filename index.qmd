@@ -1,0 +1,90 @@
+---
+title: "cv"
+---
+
+## Data driven CV
+
+```{r}
+# Knit the HTML version
+rmarkdown::render("cv.Rmd",
+                  params = list(pdf_mode = FALSE),
+                  output_file = "trampush_cv.html")
+
+# Knit the PDF version to temporary html location
+tmp_html_cv_loc <- fs::file_temp(ext = ".html")
+rmarkdown::render("cv.Rmd",
+                  params = list(pdf_mode = TRUE),
+                  output_file = tmp_html_cv_loc)
+
+# Convert to PDF using Pagedown
+pagedown::chrome_print(input = tmp_html_cv_loc,
+                       output = "trampush_cv.pdf")
+```
+
+
+No lock-in
+
+Inspired heavily the the usethis package, datadrivencv strives to make itself unnecessary.
+The main function is use_data_driven_cv, which sets up the files you need to build your CV.
+These files are self-contained meaning if you uninstall datadrivencv your CV will still knit fine.
+All the R code logic is contained in a sourced script so if you want to change it you can do so.
+
+The package aims to bootstrap you to a working data-driven CV pipeline.
+Serving as a jumping off point for you to build your own custom CV, you may at first want to leave it as is and then slowly tweak things to keep it fresh.
+You have all the code, so you can!
+Using it
+
+The first step to using the package is the use_data_driven_cv() function.
+This function takes a few input parameters and when when run, sets up a series of files in your current working directory.
+E.g.
+
+```{r, eval = FALSE}
+# run ?datadrivencv::use_datadriven_cv to see more details
+datadrivencv::use_datadriven_cv(
+  full_name = "Nick Strayer",
+  data_location = "https://docs.google.com/spreadsheets/d/14MQICF2F8-vf8CKPF1m4lyGKO6_thG-4aSwat1e2TWc",
+  pdf_location = "https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf",
+  html_location = "nickstrayer.me/cv/",
+  source_location = "https://github.com/nstrayer/cv"
+)
+```
+
+```{r}
+# Make a temp directory for placing files
+# This would be a real location for a typical situation
+temp_dir <- fs::dir_create(fs::path(tempdir(), "my_cv"))
+
+docs <- fs::dir_create(fs::path("docs"))
+
+datadrivencv::use_datadriven_cv(
+  full_name = "Joey Trampush",
+  data_location = "data/",
+  pdf_location = "https://github.com/brainworkup/cv/blob/main/trampush_cv.pdf",
+  html_location = "brainworkup.io/",
+  source_location = "https://github.com/brainworkup/cv",
+  output_dir = ".",
+  open_files = FALSE
+)
+
+```
+
+```{r}
+datadrivencv::use_csv_data_storage(folder_name = "data", create_output_dir = TRUE)
+```
+## vitae: Dynamic CVs with R Markdown
+
+vitae for R
+
+The vitae package is now available on CRAN, making it easy to install with:
+
+```{r}
+install.packages("vitae")
+```
+
+In version 0.1.0, the vitae package provides four commonly used LaTeX CV templates that have been modified for use with R Markdown.
+With the vitae package installed, CV templates can be accessed from the RStudio R Markdown template selector:
+
+```{r}
+library(datadrivencv)
+library(vitae)
+```
