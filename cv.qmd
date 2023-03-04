@@ -2,15 +2,6 @@
 title: "cv"
 ---
 
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document.
-To learn more about Quarto see <https://quarto.org>.
-
-```{r}
-1 + 1
-```
-
 ## Data driven CV
 
 No lock-in
@@ -40,6 +31,17 @@ datadrivencv::use_datadriven_cv(
 )
 ```
 
+```{r}
+datadrivencv::use_datadriven_cv(
+  full_name = "Joey Trampush",
+  pdf_location = "https://github.com/brainworkup/cv/raw/master/trampush_cv.pdf",
+  source_location = "https://github.com/brainworkup/cv"
+)
+```
+
+```{r}
+datadrivencv::use_csv_data_storage(folder_name = "data", create_output_dir = TRUE)
+```
 ## vitae: Dynamic CVs with R Markdown
 
 vitae for R
@@ -53,3 +55,7 @@ install.packages("vitae")
 In version 0.1.0, the vitae package provides four commonly used LaTeX CV templates that have been modified for use with R Markdown.
 With the vitae package installed, CV templates can be accessed from the RStudio R Markdown template selector:
 
+```{r}
+library(datadrivencv)
+library(vitae)
+```
