@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Joey Trampush’s CV",
+    "section": "",
+    "text": "View this CV online with links at brainworkup.io/\n\n\n\n j.trampush@gmail.com\n @brainworkup\n github.com/brainworkup\n brainworkup.io\n\n\n\n\nLast updated on 2023-03-04."
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "Joey Trampush’s CV",
+    "section": "",
+    "text": "j.trampush@gmail.com\n @brainworkup\n github.com/brainworkup\n brainworkup.io\n\n\n\n\nLast updated on 2023-03-04."
+  },
+  {
+    "objectID": "cv.html#title",
+    "href": "cv.html#title",
+    "title": "Joey Trampush’s CV",
+    "section": "Joey Trampush",
+    "text": "Joey Trampush\nI study how molecular genetics shape our behavior and risk for psychiatric illness using tools based on open-source data science. As a clinician and developmental neuropsychologist, I specialize in the evaluation of cognitive/learning/emotional difficulties and provide diagnostic clarification in children and young adults."
+  },
+  {
+    "objectID": "cv.html#education-and-training",
+    "href": "cv.html#education-and-training",
+    "title": "Joey Trampush’s CV",
+    "section": "Education and Training",
+    "text": "Education and Training\n\nPh.D., Psychology: Clinical Neuropsychology\nCUNY Graduate Center\nNew York, NY\n2010 - 2003\n\nThesis: Moderator effects of working memory on symptom stability in attention-deficit/hyperactivity disorder (ADHD) by dopamine D1 and D2 receptor polymorphisms during development\nAdvisor: Jeffrey Halperin, Ph.D.\n\n\n\nM.Phil., Psychology: Clinical Neuropsychology\nCUNY Graduate Center\nNew York, NY\n2008 - 2003\n\n\nM.A., Psychology: Clinical Neuropsychology\nCUNY Queens College\nNew York, NY\n2007 - 2003\n\nThesis: The impact of childhood ADHD on dropping out of high school in urban adolescents/young adults\n\n\n\nB.A., Psychology (minor Sociology)\nBowling Green State University\nBowling Green, OH\n2000 - 1998"
+  },
+  {
+    "objectID": "cv.html#faculty-academic-appointments",
+    "href": "cv.html#faculty-academic-appointments",
+    "title": "Joey Trampush’s CV",
+    "section": "Faculty Academic Appointments",
+    "text": "Faculty Academic Appointments\n\nDella Martin Assistant Professor of Psychiatry\nDepartment of Psychiatry and the Behavioral Sciences\nUSC Keck School of Medicine\nCurrent - 2019\n\n\nAssistant Professor of Psychiatry and the Behavioral Sciences\nDepartment of Psychiatry and the Behavioral Sciences\nUSC Keck School of Medicine\nCurrent - 2018\n\n\nAssistant Professor of Psychiatry\nDepartment of Psychiatry\nSchool of Medicine at Hofstra University\n2016 - 2012\n\n\nAssistant Investigator of Psychiatric Neuroscience\nCenter for Psychiatric Neuroscience\nFeinstein Institute for Medical Research\n2016 - 2012\n\n\nDirector, Laboratory of Cognitive Genomics\nDivision of Psychiatry Research\nZucker Hillside Hospital\n2016 - 2012\n\n\nPostdoctoral Fellow\nNational Institute of Mental Health @ NIH\nBethesda, MD\n2012 - 2010\n\nFellowship in Psychiatric Genetics, Clinical Brain Disorders Branch and Genes, Cognition, and Psychosis Program\nAdvisors: Dwight Dickinson, Ph.D., J.D. and Daniel Weinberger, M.D.\n\n\n\nPredoctoral Intern\nHenry Ford Hospital\nDetroit, MI\n2010 - 2009\n\nAPA Accredited Internship in Clinical Pediatric Neuropsychology"
+  },
+  {
+    "objectID": "cv.html#industry-experience",
+    "href": "cv.html#industry-experience",
+    "title": "Joey Trampush’s CV",
+    "section": "Industry Experience",
+    "text": "Industry Experience\n\n\nI have worked in a variety of roles ranging from journalist to software engineer to data scientist. I like collaborative environments where I can learn from my peers.\n\nData Journalist - Graphics Department\nNew York Times\nNew York, New York\n2016 - 2016\n\nReporter with the graphics desk covering topics in science, politics, and sport.\nWork primarily done in R, Javascript, and Adobe Illustrator.\n\n\n\nEngineering Intern - User Experience\nDealer.com\nBurlington, VT\n2015 - 2015\n\nBuilt internal tool to help analyze and visualize user interaction with back-end products.\n\n\n\nData Science Intern\nDealer.com\nBurlington, VT\n2015 - 2015\n\nWorked with the product analytics team to help parse and visualize large stores of data to drive business decisions.\n\n\n\nData Artist In Residence\nConduce\nCarpinteria, CA\n2015 - 2014\n\nEnvisioned, prototyped and implemented visualization framework in the course of one month.\nConstructed training protocol for bringing third parties up to speed with new protocol.\n\n\n\nSoftware Engineering Intern\nConduce\nCarpinteria, CA\n2014 - 2014\n\nIncorporated d3.js to the company’s main software platform."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Joey Trampush’s CV",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\n\nI am passionate about education. I believe that no topic is too complex if the teacher is empathetic and willing to think about new methods of approaching task.\n\nJavascript for Shiny Users\nRStudio::conf 2020\nN/A\n2020\n\nServed as TA for two day workshop on how to leverage Javascript in Shiny applications\nLectured on using R2D3 package to build interactive visualizations.1\n\n\n\nData Visualization Best Practices\nDataCamp\nN/A\n2019 - 2019\n\nDesigned from bottom up course to teach best practices for scientific visualizations.\nUses R and ggplot2.\nIn top 10% on platform by popularity.\n\n\n\nImproving your visualization in Python\nDataCamp\nN/A\n2019 - 2019\n\nDesigned from bottom up course to teach advanced methods for enhancing visualization.\nUses python, matplotlib, and seaborn.\n\n\n\nAdvanced Statistical Learning and Inference\nVanderbilt Biostatistics Department\nNashville, TN\n2018 - 2017\n\nTA and lectured\nTopics covered from penalized regression to boosted trees and neural networks\nHighest level course offered in department\n\n\n\nAdvanced Statistical Computing\nVanderbilt Biostatistics Department\nNashville, TN\n2018 - 2018\n\nTA and lectured\nCovered modern statistical computing algorithms\n4th year PhD level class\n\n\n\nStatistical Computing in R\nVanderbilt Biostatistics Department\nNashville, TN\n2017 - 2017\n\nTA and lectured\nCovered introduction to R language for statistics applications\nGraduate level class"
+  },
+  {
+    "objectID": "cv.html#selected-data-science-writing",
+    "href": "cv.html#selected-data-science-writing",
+    "title": "Joey Trampush’s CV",
+    "section": "Selected Data Science Writing",
+    "text": "Selected Data Science Writing\n\n\nI regularly blog about data science and visualization on my blog LiveFreeOrDichotomize.2\n\nUsing AWK and R to Parse 25tb3\nLiveFreeOrDichotomize.com\nN/A\n2019\n\nStory of parsing large amounts of genomics data.\nProvided advice for dealing with data much larger than disk.\nReached top of HackerNews.\n\n\n\nClassifying physical activity from smartphone data4\nRStudio Tensorflow Blog\nN/A\n2018\n\nWalk through of training a convolutional neural network to achieve state of the art recognition of activities from accelerometer data.\nContracted article.\n\n\n\nThe United States of Seasons5\nLiveFreeOrDichotomize.com\nN/A\n2018\n\nGIS analysis of weather data to find the most ‘seasonal’ locations in United States\nUsed Bayesian regression methods for smoothing sparse geospatial data.\n\n\n\nA year as told by fitbit6\nLiveFreeOrDichotomize.com\nN/A\n2017\n\nAnalyzing a full years worth of second-level heart rate data from wearable device.\nDemonstrated visualization-based inference for large data.\n\n\n\nMCMC and the case of the spilled seeds7\nLiveFreeOrDichotomize.com\nN/A\n2017\n\nFull Bayesian MCMC sampler running in your browser.\nCoded from scratch in vanilla Javascript.\n\n\n\nThe Traveling Metallurgist8\nLiveFreeOrDichotomize.com\nN/A\n2017\n\nPure javascript implementation of traveling salesman solution using simulated annealing.\nAllows reader to customize the number and location of cities to attempt to trick the algorithm."
+  },
+  {
+    "objectID": "cv.html#selected-press-about",
+    "href": "cv.html#selected-press-about",
+    "title": "Joey Trampush’s CV",
+    "section": "Selected Press (About)",
+    "text": "Selected Press (About)\n\nGreat paper? Swipe right on the new ‘Tinder for preprints’ app9\nScience\nN/A\n2017 - 2017\n\nStory of the app Papr10 made with Jeff Leek and Lucy D’Agostino McGowan.\n\n\n\nSwipe right for science: Papr app is ‘Tinder for preprints’11\nNature News\nN/A\n2017 - 2017\n\nSecond press article for app Papr.\n\n\n\nThe Deeper Story in the Data12\nUniversity of Vermont Quarterly\nN/A\n2016 - 2016\n\nStory on my path post graduation and the power of narrative."
+  },
+  {
+    "objectID": "cv.html#selected-press-by",
+    "href": "cv.html#selected-press-by",
+    "title": "Joey Trampush’s CV",
+    "section": "Selected Press (By)",
+    "text": "Selected Press (By)\n\nThe Great Student Migration13\nThe New York Times\nN/A\n2016 - 2016\n\nMost shared and discussed article from the New York Times for August 2016.\n\n\n\nWildfires are Getting Worse, The New York Times14\nThe New York Times\nN/A\n2016 - 2016\n\nGIS analysis and modeling of fire patterns and trends\nData in collaboration with NASA and USGS\n\n\n\nWho’s Speaking at the Democratic National Convention?15\nThe New York Times\nN/A\n2016 - 2016\n\nData scraped from CSPAN records to figure out who talked and past conventions.\n\n\n\nWho’s Speaking at the Republican National Convention?16\nThe New York Times\nN/A\n2016 - 2016\n\nUsed same data scraping techniques as Who’s Speaking at the Democratic National Convention?\n\n\n\nA Trail of Terror in Nice, Block by Block17\nThe New York Times\nN/A\n2016 - 2016\n\nLed research effort to put together story of 2016 terrorist attack in Nice, France in less than 12 hours.\nWork won Silver medal at Malofiej 2017, and gold at Society of News and Design."
+  },
+  {
+    "objectID": "cv.html#selected-publications-posters-and-talks",
+    "href": "cv.html#selected-publications-posters-and-talks",
+    "title": "Joey Trampush’s CV",
+    "section": "Selected Publications, Posters, and Talks",
+    "text": "Selected Publications, Posters, and Talks\n\nBuilding a software package in tandem with machine learning methods research can result in both more rigorous code and more rigorous research\nENAR 2020\nN/A\n2020\n\nInvited talk in Human Data Interaction section.\nHow and why building an R package can benefit methodological research\n\n\n\nStochastic Block Modeling in R, Statistically rigorous clustering with rigorous code18\nRStudio::conf 2020\nN/A\n2020\n\nInvited talk about new sbmR package19.\nFocus on how software development and methodological research can improve both benefit when done in tandem.\n\n\n\nCharge Reductions Associated with Shortening Time to Recovery in Septic Shock20\nChest\nN/A\n2019 - 2019\n\nAuthored with Wesley H. Self, MD MPH; Dandan Liu, PhD; Stephan Russ, MD, MPH; Michael J. Ward, MD, PhD, MBA; Nathan I. Shapiro, MD, MPH; Todd W. Rice, MD, MSc; Matthew W. Semler, MD, MSc.\n\n\n\nMultimorbidity Explorer | A shiny app for exploring EHR and biobank data21\nRStudio::conf 2019\nN/A\n2019 - 2019\n\nContributed Poster. Authored with Yaomin Xu.\n\n\n\nTaking a network view of EHR and Biobank data to find explainable multivariate patterns22\nVanderbilt Biostatistics Seminar Series\nN/A\n2019 - 2019\n\nUniversity wide seminar series.\n\n\n\nPatient-specific risk factors independently influence survival in Myelodysplastic Syndromes in an unbiased review of EHR records\nUnder-Review (copy available upon request.)\nN/A\n2019\n\nBayesian network analysis used to find novel subgroups of patients with Myelodysplastic Syndromes (MDS).\nAnalysis done using method built for my dissertation.\n\n\n\nPatient specific comorbidities impact overall survival in myelofibrosis\nUnder-Review (copy available upon request.)\nN/A\n2019\n\nBayesian network analysis used to find robust novel subgroups of patients with given genetic mutations.\nAnalysis done using method built for my dissertation.\n\n\n\nR timelineViz: Visualizing the distribution of study events in longitudinal studies\nUnder-Review (copy available upon request.)\nN/A\n2018 - 2018\n\nAuthored with Alex Sunderman of the Vanderbilt Department of Epidemiology.\n\n\n\nContinuous Classification using Deep Neural Networks23\nVanderbilt Biostatistics Qualification Exam\nN/A\n2017 - 2017\n\nReview of methods for classifying continuous data streams using neural networks\nSuccessfully met qualifying examination standards\n\n\n\nAsymmetric Linkage Disequilibrium: Tools for Dissecting Multiallelic LD\nJournal of Human Immunology\nN/A\n2015 - 2015\n\nAuthored with Richard Single, Vanja Paunic, Mark Albrecht, and Martin Maiers.\n\n\n\nAn Agent Based Model of Mysis Migration24\nInternational Association of Great Lakes Research Conference\nN/A\n2015 - 2015\n\nAuthored with Brian O’Malley, Sture Hansson, and Jason Stockwell.\n\n\n\nDeclines of Mysis diluviana in the Great Lakes\nJournal of Great Lakes Research\nN/A\n2015 - 2015\n\nAuthored with Peter Euclide and Jason Stockwell."
+  },
+  {
+    "objectID": "cv.html#links",
+    "href": "cv.html#links",
+    "title": "Joey Trampush’s CV",
+    "section": "Links",
+    "text": "Links\n\n\nhttp://nickstrayer.me/js4shiny_r2d3/slides\nhttps://livefreeordichotomize.com/\nhttps://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/\nhttps://blogs.rstudio.com/tensorflow/posts/2018-07-17-activity-detection/\nhttps://livefreeordichotomize.com/2018/02/12/the-united-states-of-seasons/\nhttps://livefreeordichotomize.com/2017/12/27/a-year-as-told-by-fitbit/\nhttps://livefreeordichotomize.com/2017/10/14/mcmc-and-the-case-of-the-spilled-seeds/\nhttps://livefreeordichotomize.com/2017/09/25/the-traveling-metallurgist/\nhttps://www.sciencemag.org/news/2017/06/great-paper-swipe-right-new-tinder-preprints-app\nhttps://jhubiostatistics.shinyapps.io/papr/\nhttps://www.nature.com/news/swipe-right-for-science-papr-app-is-tinder-for-preprints-1.22163\nhttps://www.uvm.edu/uvmnews/news/deeper-story-data\nhttps://www.nytimes.com/interactive/2016/08/26/us/college-student-migration.html?smid=pl-share\nhttps://www.nytimes.com/interactive/2016/07/25/us/wildfire-seasons-los-angeles.html\nhttps://www.nytimes.com/2016/07/26/upshot/democrats-may-not-be-unified-but-their-convention-speakers-are.html\nhttps://www.nytimes.com/2016/07/19/upshot/whos-not-speaking-how-this-republican-convention-differs.html?smid=pl-share\nhttps://www.nytimes.com/interactive/2016/07/14/world/europe/trail-of-terror-france.html\nhttp://nickstrayer.me/rstudioconf_sbm\nhttps://tbilab.github.io/sbmR/\nhttps://www.ncbi.nlm.nih.gov/pubmed/30419234\nhttp://nickstrayer.me/rstudioconf19_me-poster/\nhttp://nickstrayer.me/biostat_seminar/\nhttp://nickstrayer.me/qualifying_exam/\nhttps://www.semanticscholar.org/paper/An-Agent-Based-Model-of-the-Diel-Vertical-Migration-Strayer-Stockwell/40493c78e8ecf22bd882d17ec99fd913ec4b9820"
+  }
+]

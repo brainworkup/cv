@@ -8,7 +8,7 @@ title: "cv"
 # Knit the HTML version
 rmarkdown::render("cv.Rmd",
                   params = list(pdf_mode = FALSE),
-                  output_file = "trampush_cv.html")
+                  output_file = "cv.html")
 
 # Knit the PDF version to temporary html location
 tmp_html_cv_loc <- fs::file_temp(ext = ".html")
@@ -18,10 +18,14 @@ rmarkdown::render("cv.Rmd",
 
 # Convert to PDF using Pagedown
 pagedown::chrome_print(input = tmp_html_cv_loc,
-                       output = "trampush_cv.pdf")
+                       output = "cv.pdf")
 ```
 
-
+```{r}
+# to convert to quarto
+knitr::convert_chunk_header("cv.Rmd", 
+    output = "cv.qmd")
+```
 No lock-in
 
 Inspired heavily the the usethis package, datadrivencv strives to make itself unnecessary.
@@ -59,12 +63,16 @@ docs <- fs::dir_create(fs::path("docs"))
 datadrivencv::use_datadriven_cv(
   full_name = "Joey Trampush",
   data_location = "data/",
-  pdf_location = "https://github.com/brainworkup/cv/blob/main/trampush_cv.pdf",
-  html_location = "brainworkup.io/",
+  pdf_location = "https://github.com/brainworkup/cv/blob/main/cv.pdf",
+  html_location = "htpps://brainworkup.io",
   source_location = "https://github.com/brainworkup/cv",
   output_dir = ".",
   open_files = FALSE
 )
+
+
+rcompendium::add_to_gitignore("research_statements")
+rcompendium::add_to_gitignore("*.zip")
 
 ```
 

@@ -2,3 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+biosketch
+biosketchr
+jwt
+ksom
+research_statements
+*.zip
+
+/.quarto/

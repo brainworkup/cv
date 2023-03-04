@@ -2,19 +2,19 @@ Where in your CV this entry belongs,Main title of the entry,Location the entry o
 section,title,loc,institution,start,end,description_1,description_2,description_3,in_resume
 education,"Ph.D., Psychology: Clinical Neuropsychology",CUNY Graduate Center,"New York, NY",2003,2010,Thesis: Moderator effects of working memory on symptom stability in attention-deficit/hyperactivity disorder (ADHD) by dopamine D1 and D2 receptor polymorphisms during development,"Advisor: Jeffrey Halperin, Ph.D.",,TRUE
 education,"M.Phil., Psychology: Clinical Neuropsychology",CUNY Graduate Center,"New York, NY",2003,2008,,,,TRUE
-education,"M.A., Psychology: Clinical Neuropsychology",CUNY Queens College,"Queens, NY",2003,2007,Thesis: The impact of childhood ADHD on dropping out of high school in urban adolescents/young adults,,,TRUE
+education,"M.A., Psychology: Clinical Neuropsychology",CUNY Queens College,"New York, NY",2003,2007,Thesis: The impact of childhood ADHD on dropping out of high school in urban adolescents/young adults,,,TRUE
 education,"B.A., Psychology (minor Sociology)",Bowling Green State University,"Bowling Green, OH",1998,2000,,,,TRUE
-research_positions,Della Martin Assistant Professor of Psychiatry,Department of Psychiatry and the Behavioral Sciences,USC Keck School of Medicine,2019,,Independently analyzed and constructed statistical models for large data sets pertaining to carbon decomposition rates.,,,TRUE
-research_positions,Assistant Professor of Psychiatry and the Behavioral Sciences,Department of Psychiatry and the Behavioral Sciences,USC Keck School of Medicine,2018,,Developed mathematical model to predict the transport of sulfur through the environment with applications in waste cleanup.,,,TRUE
-research_positions,Assistant Professor of Psychiatry,Department of Psychiatry,School of Medicine at Hofstra University,2012,2016,Analyzed and visualized data for CATOS fish tracking project.,,,TRUE
-research_positions,Assistant Investigator of Psychiatric Neuroscience,Center for Psychiatric Neuroscience,Feinstein Institute for Medical Research,2012,2016,Led development and implementation of interactive data visualizations to help users compare themselves to other demographics.,,,TRUE
-research_positions,"Director, Laboratory of Cognitive Genomics",Division of Psychiatry Research,Zucker Hillside Hospital,2012,2016,Primarily working with large EHR and Biobank datasets.,Developing network-based methods to investigate and visualize clinically relevant patterns in data.,,TRUE
+academic_positions,Della Martin Assistant Professor of Psychiatry,Department of Psychiatry and the Behavioral Sciences,USC Keck School of Medicine,2019,,,,,TRUE
+academic_positions,Assistant Professor of Psychiatry and the Behavioral Sciences,Department of Psychiatry and the Behavioral Sciences,USC Keck School of Medicine,2018,,,,,TRUE
+academic_positions,Assistant Professor of Psychiatry,Department of Psychiatry,School of Medicine at Hofstra University,2012,2016,,,,TRUE
+academic_positions,Assistant Investigator of Psychiatric Neuroscience,Center for Psychiatric Neuroscience,Feinstein Institute for Medical Research,2012,2016,,,,TRUE
+academic_positions,"Director, Laboratory of Cognitive Genomics",Division of Psychiatry Research,Zucker Hillside Hospital,2012,2016,,,,TRUE
 research_positions,Postdoctoral Fellow,National Institute of Mental Health @ NIH,"Bethesda, MD",2010,2012,"Fellowship in Psychiatric Genetics, Clinical Brain Disorders Branch and Genes, Cognition, and Psychosis Program","Advisors: Dwight Dickinson, Ph.D., J.D. and Daniel Weinberger, M.D.",,TRUE
-research_positions,Predoctoral Intern,Henry Ford Hospital,"Detroit, MI",2009,2010,APA Accredited Internship in Clinical Pediatric Neuropsychology,,,TRUE
-industry_positions,Software Engineering Intern,Conduce,"Carpinteria, CA",2014,2014,Incorporated d3.js to the company's main software platform.,,,FALSE
-industry_positions,Engineering Intern - User Experience,Dealer.com,"Burlington, VT",2015,2015,Built internal tool to help analyze and visualize user interaction with back-end products.,,,FALSE
-industry_positions,Data Science Intern,Dealer.com,"Burlington, VT",2015,2015,Worked with the product analytics team to help parse and visualize large stores of data to drive business decisions.,,,FALSE
-industry_positions,Data Artist In Residence,Conduce,"Carpinteria, CA",2014,2015,"Envisioned, prototyped and implemented visualization framework in the course of one month.",Constructed training protocol for bringing third parties up to speed with new protocol.,,FALSE
+clinical_positions,Predoctoral Intern,Henry Ford Hospital,"Detroit, MI",2009,2010,APA Accredited Internship in Clinical Pediatric Neuropsychology,,,TRUE
+clinical_positions,Founder & Chief Neuropsychologist,"BrainWorkup Neuropsychology Clinic, LLC","Los Angeles, CA",2016,2018,,,,TRUE
+research_positions,CESR Research Fellow,Center for Economic and Social Research (CESR),USC,2018,,,,,TRUE
+industry_positions,Data Science Intern,Dealer.com,"Burlington, VT",2015,2015,Worked with the product analytics team to help parse and visualize large stores of data to drive business decisions.,,,TRUE
+industry_positions,Data Artist In Residence,Conduce,"Carpinteria, CA",2014,2015,"Envisioned, prototyped and implemented visualization framework in the course of one month.",Constructed training protocol for bringing third parties up to speed with new protocol.,,TRUE
 industry_positions,Data Journalist - Graphics Department,New York Times,"New York, New York",2016,2016,"Reporter with the graphics desk covering topics in science, politics, and sport.","Work primarily done in R, Javascript, and Adobe Illustrator.",,TRUE
 teaching_positions,Javascript for Shiny Users,RStudio::conf 2020,N/A,,2020,Served as TA for two day workshop on how to leverage Javascript in Shiny applications,Lectured on [using R2D3 package to build interactive visualizations.](http://nickstrayer.me/js4shiny_r2d3/slides),,FALSE
 teaching_positions,Statistical Computing in R,Vanderbilt Biostatistics Department,"Nashville, TN",2017,2017,TA and lectured,Covered introduction to R language for statistics applications,Graduate level class,FALSE
