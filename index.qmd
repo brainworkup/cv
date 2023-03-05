@@ -1,10 +1,11 @@
 ---
-title: "cv"
+title: "CV"
 ---
 
 ## Data driven CV
 
 ```{r}
+#| eval: false
 # Knit the HTML version
 rmarkdown::render("cv.Rmd",
                   params = list(pdf_mode = FALSE),
@@ -42,7 +43,8 @@ The first step to using the package is the use_data_driven_cv() function.
 This function takes a few input parameters and when when run, sets up a series of files in your current working directory.
 E.g.
 
-```{r, eval = FALSE}
+```{r}
+#| eval: false
 # run ?datadrivencv::use_datadriven_cv to see more details
 datadrivencv::use_datadriven_cv(
   full_name = "Nick Strayer",
@@ -54,6 +56,7 @@ datadrivencv::use_datadriven_cv(
 ```
 
 ```{r}
+#| eval: false
 # Make a temp directory for placing files
 # This would be a real location for a typical situation
 temp_dir <- fs::dir_create(fs::path(tempdir(), "my_cv"))
@@ -77,6 +80,7 @@ rcompendium::add_to_gitignore("*.zip")
 ```
 
 ```{r}
+#| eval: false
 datadrivencv::use_csv_data_storage(folder_name = "data", create_output_dir = TRUE)
 ```
 ## vitae: Dynamic CVs with R Markdown
@@ -86,6 +90,7 @@ vitae for R
 The vitae package is now available on CRAN, making it easy to install with:
 
 ```{r}
+#| eval: false
 install.packages("vitae")
 ```
 
@@ -96,3 +101,21 @@ With the vitae package installed, CV templates can be accessed from the RStudio 
 library(datadrivencv)
 library(vitae)
 ```
+
+
+## Table paste from excel
+
+> Quote me
+
+| scale              | score | ci_95  | percentile | range         |
+|--------------------|-------|--------|------------|---------------|
+| Full Scale         | 92    | 89-95  | 30         | Average       |
+| Attention          | 72    | 67-84  | 3          | Below Average |
+| Emotion Regulation | 71    | 66-81  | 3          | Below Average |
+| Flexibility        | 106   | 99-112 | 66         | Average       |
+| Inhibitory Control | 98    | 91-105 | 45         | Average       |
+| Initiation         | 88    | 82-96  | 21         | Low Average   |
+| Organization       | 101   | 94-107 | 53         | Average       |
+| Planning           | 92    | 86-99  | 30         | Average       |
+| Self-Monitoring    | 99    | 91-107 | 47         | Average       |
+| Working Memory     | 104   | 96-111 | 61         | Average       |

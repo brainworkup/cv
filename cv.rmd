@@ -109,14 +109,12 @@ CV %<>% print_section("education")
 ```
 
 
-
 Faculty Academic Appointments {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %<>% print_section("academic_positions")
 ```
-
 
 
 Research Experience {data-icon=laptop}
@@ -140,7 +138,7 @@ CV %<>% print_text_block("industry_experience_aside")
 CV %<>% print_section("clinical_positions")
 ```
 
-<!-- These breaks just force a new page so section doesnt get cut off -->
+<!-- These breaks just force a new page so section doesn't get cut off -->
 <br>
 <br>
 <br>
