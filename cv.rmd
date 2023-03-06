@@ -117,7 +117,7 @@ CV %<>% print_section("academic_positions")
 ```
 
 
-Research Experience {data-icon=laptop}
+Research Experience {data-icon=bar-chart}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -125,7 +125,7 @@ CV %<>% print_section("research_positions")
 ```
 
 
-Clinical Experience {data-icon=suitcase}
+Clinical Experience {data-icon=building}
 --------------------------------------------------------------------------------
 
 ::: aside
